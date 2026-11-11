@@ -14,16 +14,16 @@
 </p>
 
 <a id="espanol"></a>
-## 👨‍💻 Un poco sobre mí
+## 👨‍💻 Sobre mí
 
-### 💻 Desarrollador web | TSU en Informática
+### 💻 Desarrollador Full Stack
 
-Soy Daniel Marin, TSU en Informática graduado del Instituto Universitario Jesús Obrero (IUJO). Me gusta el desarrollo web y disfruto convertir ideas en experiencias digitales útiles, atractivas y funcionales. Tengo conocimientos de frontend y backend, y sigo aprendiendo para crecer como desarrollador.
+¡Hola! Soy **Daniel Marín**, Desarrollador Full Stack. Actualmente curso la doble carrera de **Ingeniería en Sistemas en la UNEFA** y **Contaduría Pública en la LUZ**, una formación que une el pensamiento lógico y técnico con una visión analítica y de gestión. Me apasiona crear soluciones eficientes y escalables, desde interfaces web hasta la arquitectura y gestión de bases de datos.
 
-- 🌱 **Ahora aprendiendo:** TypeScript, Node.js y Tailwind CSS
-- 🤝 **Me interesa:** colaborar en proyectos open source
-- ☕ **Mi combustible:** café, curiosidad y ganas de construir
-- 💬 **Hablemos de:** desarrollo web, ideas y tecnología
+- 💻 **Experiencia y desarrollo:** Creación de aplicaciones web completas, sitios dinámicos con **WordPress** e integración de servicios en la nube.
+- 🛠️ **Stack principal:** **Python**, **JavaScript**, **C++** y **Appwrite** para el desarrollo de backend.
+- 🌱 **En constante aprendizaje:** Explorando nuevas arquitecturas web, optimización de sistemas y herramientas modernas de desarrollo.
+- 🤝 **Colaboración:** Abierto a participar en proyectos de código abierto y software innovador. 📫 **Contacto:** [Conecta conmigo en GitHub](https://github.com/daniel-devfrontend).
 
 ## 🚀 Mi stack
 
@@ -53,16 +53,16 @@ Soy Daniel Marin, TSU en Informática graduado del Instituto Universitario Jesú
 ---
 
 <a id="english"></a>
-## 👨‍💻 A little about me
+## 👨‍💻 About me
 
-### 💻 Web Developer | Higher University Technician in Computer Science
+### 💻 Full Stack Developer | Systems Engineering & Public Accounting student
 
-I am Daniel Marin, a Higher University Technician (TSU) in Computer Science and a graduate of the Jesús Obrero University Institute (IUJO). I enjoy web development and building useful, engaging digital experiences. I have knowledge of both frontend and backend development, and I keep learning to grow as a developer.
+Hi! I'm **Daniel Marín**, a Full Stack Developer. I am currently pursuing dual degrees in **Systems Engineering at UNEFA** and **Public Accounting at LUZ**, combining logical and technical thinking with an analytical and management perspective. I enjoy building efficient, scalable solutions, from web interfaces to backend database architecture and management.
 
-- 🌱 **Currently learning:** TypeScript, Node.js, and Tailwind CSS
-- 🤝 **Interested in:** contributing to open-source projects
-- ☕ **Powered by:** coffee, curiosity, and a desire to build
-- 💬 **Let's talk about:** web development, ideas, and technology
+- 💻 **Experience and development:** Building complete web applications, dynamic WordPress sites, and cloud service integrations.
+- 🛠️ **Core stack:** **Python**, **JavaScript**, **C++**, and **Appwrite** for backend development.
+- 🌱 **Always learning:** Exploring modern web architectures, system optimization, and new development tools.
+- 🤝 **Collaboration:** Open to open-source projects and innovative software development. 📫 **Contact:** [Connect with me on GitHub](https://github.com/daniel-devfrontend).
 
 ## 🚀 My stack
 
