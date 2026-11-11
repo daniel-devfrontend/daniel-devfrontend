@@ -1,92 +1,94 @@
-<h1 align="center">Hi, I'm Daniel Marin 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Daniel%20Marin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20web%20%7C%20Web%20Developer&descAlignY=60&descSize=18" width="100%" alt="Daniel Marin - Desarrollador web"/>
+</p>
 
 <p align="center">
-  <a href="#espanol"><img src="https://img.shields.io/badge/Leer-en_espa%C3%B1ol-2563EB?style=for-the-badge" alt="Ver en español"/></a>
-  <a href="#english"><img src="https://img.shields.io/badge/Read-in_English-16A34A?style=for-the-badge" alt="View in English"/></a>
+  <a href="#espanol"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Espa%C3%B1ol-2563EB?style=for-the-badge" alt="Ver en español"/></a>
+  <a href="#english"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-0F172A?style=for-the-badge" alt="Read in English"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/GitHub-@daniel--devfrontend-181717?style=flat&logo=github" alt="GitHub profile"/></a>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-06B6D4?style=flat" alt="Focus: web development"/>
+  <img src="https://img.shields.io/badge/Languages-Espa%C3%B1ol%20%26%20English-7C3AED?style=flat" alt="Spanish and English"/>
 </p>
 
 <a id="espanol"></a>
-## 🇪🇸 Sobre mí
+## 👋 ¡Hola! Soy Daniel
 
-Soy Técnico Superior Universitario (TSU) en Informática, graduado del Instituto Universitario Jesús Obrero (IUJO). Me interesa el desarrollo web y tengo conocimientos de frontend y backend. Disfruto aprender nuevas tecnologías y crear soluciones útiles y bien diseñadas.
+### 💻 Desarrollador web | TSU en Informática
 
-- 🌱 Actualmente estoy aprendiendo TypeScript, Node.js y Tailwind CSS.
-- 🤝 Me interesa colaborar en proyectos de código abierto.
-- 💬 Abierto a conversar sobre desarrollo de software y tecnología.
+Me gradué del Instituto Universitario Jesús Obrero (IUJO) y me apasiona crear experiencias web útiles, atractivas y funcionales. Tengo conocimientos de frontend y backend, y siempre estoy explorando nuevas herramientas para seguir creciendo como desarrollador.
 
-## 🛠️ Tecnologías y herramientas
+- 🌱 **Ahora aprendiendo:** TypeScript, Node.js y Tailwind CSS
+- 🤝 **Me interesa:** colaborar en proyectos open source
+- ☕ **Mi combustible:** café, curiosidad y ganas de construir
+- 💬 **Hablemos de:** desarrollo web, ideas y tecnología
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-338dff?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Bases de datos**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Lenguajes y herramientas**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📊 Estadísticas de GitHub
+## 🚀 Mi stack
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daniel-devfrontend&show_icons=true&theme=algolia" alt="Estadísticas de GitHub"/>
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniel-devfrontend&layout=compact&langs_count=8&theme=algolia" alt="Lenguajes más utilizados"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,mysql,postgres,git,github,vscode,postman&perline=6" alt="Tecnologías: HTML, CSS, JavaScript, React, Bootstrap, Python, MySQL, PostgreSQL, Git, GitHub, VS Code y Postman"/>
 </p>
 
-## 🤝 Conecta conmigo
+<p align="center">
+  <img src="https://img.shields.io/badge/Explorando-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Aprendiendo TypeScript"/>
+  <img src="https://img.shields.io/badge/Explorando-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Aprendiendo Node.js"/>
+  <img src="https://img.shields.io/badge/Explorando-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Aprendiendo Tailwind CSS"/>
+</p>
+
+## 📊 Mi actividad en GitHub
 
 <p align="center">
-  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daniel-devfrontend&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="Estadísticas de GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-devfrontend&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Lenguajes más usados"/>
+</p>
+
+## 🤝 Conectemos
+
+<p align="center">
+  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/Visita_mi_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visita mi GitHub"/></a>
 </p>
 
 ---
 
 <a id="english"></a>
-## 🇬🇧 About me
+## 👋 Hi, I'm Daniel
 
-I am a Higher University Technician (TSU) in Computer Science, a graduate of the Jesús Obrero University Institute (IUJO). I am interested in web development and have knowledge of both frontend and backend development. I enjoy learning new technologies and building useful, well-designed solutions.
+### 💻 Web Developer | Higher University Technician in Computer Science
 
-- 🌱 Currently learning TypeScript, Node.js, and Tailwind CSS.
-- 🤝 Interested in contributing to open-source projects.
-- 💬 Open to discussing software development and technology.
+I graduated from the Jesús Obrero University Institute (IUJO), and I enjoy building useful, engaging, and functional web experiences. I have knowledge of both frontend and backend development, and I am always exploring new tools to grow as a developer.
 
-## 🛠️ Technologies and tools
+- 🌱 **Currently learning:** TypeScript, Node.js, and Tailwind CSS
+- 🤝 **Interested in:** contributing to open-source projects
+- ☕ **Powered by:** coffee, curiosity, and a desire to build
+- 💬 **Let's talk about:** web development, ideas, and technology
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-338dff?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Languages and tools**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📊 GitHub stats
+## 🚀 My stack
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daniel-devfrontend&show_icons=true&theme=algolia" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniel-devfrontend&layout=compact&langs_count=8&theme=algolia" alt="Most used languages"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,mysql,postgres,git,github,vscode,postman&perline=6" alt="Technologies: HTML, CSS, JavaScript, React, Bootstrap, Python, MySQL, PostgreSQL, Git, GitHub, VS Code, and Postman"/>
 </p>
 
-## 🤝 Connect with me
+<p align="center">
+  <img src="https://img.shields.io/badge/Exploring-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Learning TypeScript"/>
+  <img src="https://img.shields.io/badge/Exploring-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Learning Node.js"/>
+  <img src="https://img.shields.io/badge/Exploring-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Learning Tailwind CSS"/>
+</p>
+
+## 📊 My GitHub activity
 
 <p align="center">
-  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daniel-devfrontend&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-devfrontend&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Most used languages"/>
+</p>
+
+## 🤝 Let's connect
+
+<p align="center">
+  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/Visit_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub"/></a>
+</p>
+
+<p align="center">
+  <sub>✨ Gracias por visitar mi perfil · Thanks for stopping by ✨</sub>
 </p>
