@@ -40,8 +40,8 @@
 ## 📊 Mi actividad en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daniel-devfrontend&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="Estadísticas de GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-devfrontend&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Lenguajes más usados"/>
+  <img src="https://streak-stats.demolab.com?user=daniel-devfrontend&theme=tokyonight&hide_border=true" alt="Racha de contribuciones de GitHub"/>
+
 </p>
 
 ## 🤝 Conectemos
@@ -79,8 +79,8 @@ Hi! I'm **Daniel Marín**, a Full Stack Developer. I am currently pursuing dual 
 ## 📊 My GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daniel-devfrontend&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-devfrontend&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Most used languages"/>
+  <img src="https://streak-stats.demolab.com?user=daniel-devfrontend&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
 </p>
 
 ## 🤝 Let's connect
