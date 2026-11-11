@@ -14,11 +14,11 @@
 </p>
 
 <a id="espanol"></a>
-## 👋 ¡Hola! Soy Daniel
+## 👨‍💻 Un poco sobre mí
 
 ### 💻 Desarrollador web | TSU en Informática
 
-Me gradué del Instituto Universitario Jesús Obrero (IUJO) y me apasiona crear experiencias web útiles, atractivas y funcionales. Tengo conocimientos de frontend y backend, y siempre estoy explorando nuevas herramientas para seguir creciendo como desarrollador.
+Soy Daniel Marin, TSU en Informática graduado del Instituto Universitario Jesús Obrero (IUJO). Me gusta el desarrollo web y disfruto convertir ideas en experiencias digitales útiles, atractivas y funcionales. Tengo conocimientos de frontend y backend, y sigo aprendiendo para crecer como desarrollador.
 
 - 🌱 **Ahora aprendiendo:** TypeScript, Node.js y Tailwind CSS
 - 🤝 **Me interesa:** colaborar en proyectos open source
@@ -53,11 +53,11 @@ Me gradué del Instituto Universitario Jesús Obrero (IUJO) y me apasiona crear 
 ---
 
 <a id="english"></a>
-## 👋 Hi, I'm Daniel
+## 👨‍💻 A little about me
 
 ### 💻 Web Developer | Higher University Technician in Computer Science
 
-I graduated from the Jesús Obrero University Institute (IUJO), and I enjoy building useful, engaging, and functional web experiences. I have knowledge of both frontend and backend development, and I am always exploring new tools to grow as a developer.
+I am Daniel Marin, a Higher University Technician (TSU) in Computer Science and a graduate of the Jesús Obrero University Institute (IUJO). I enjoy web development and building useful, engaging digital experiences. I have knowledge of both frontend and backend development, and I keep learning to grow as a developer.
 
 - 🌱 **Currently learning:** TypeScript, Node.js, and Tailwind CSS
 - 🤝 **Interested in:** contributing to open-source projects
