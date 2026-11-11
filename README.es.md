@@ -1,58 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Daniel%20Marin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20web&descAlignY=60&descSize=18" width="100%" alt="Daniel Marin - Desarrollador web"/>
-</p>
+<h1 align="center">Daniel Marín</h1>
+<p align="center">Desarrollador Full Stack · Estudiante de Ingeniería en Sistemas y Contaduría Pública</p>
+<p align="center"><a href="https://github.com/daniel-devfrontend/daniel-devfrontend/blob/main/README.md">English</a></p>
 
-<p align="center">
-  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-0F172A?style=for-the-badge" alt="Ver perfil en inglés"/></a>
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/GitHub-@daniel--devfrontend-181717?style=flat&logo=github" alt="Perfil de GitHub"/></a>
-  <img src="https://img.shields.io/badge/Enfoque-Desarrollo%20web-06B6D4?style=flat" alt="Enfoque: desarrollo web"/>
-</p>
+Desarrollo aplicaciones web y experiencias digitales, con interés en crear soluciones prácticas y fáciles de mantener. Estudio Ingeniería en Sistemas en la UNEFA y Contaduría Pública en la LUZ.
 
-## 👨‍💻 Sobre mí
+### Tecnologías
 
-### 💻 Desarrollador Full Stack
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,materialui,wordpress,mysql,postgres,cpp,python,java,visualstudio,aws,docker,windows,ts,sass,git,github,gitlab,linux,php,jupyter&perline=8" alt="HTML, CSS, JavaScript, Material UI, WordPress, MySQL, PostgreSQL, C++, Python, Java, Visual Studio, AWS, Docker, Windows, TypeScript, SCSS, Git, GitHub, GitLab, Linux, PHP y Jupyter Notebook" /></p>
 
-¡Hola! Soy **Daniel Marín**, Desarrollador Full Stack. Actualmente curso la doble carrera de **Ingeniería en Sistemas en la UNEFA** y **Contaduría Pública en la LUZ**, una formación que une el pensamiento lógico y técnico con una visión analítica y de gestión. Me apasiona crear soluciones eficientes y escalables, desde interfaces web hasta la arquitectura y gestión de bases de datos.
+### Contacto
 
-- 💻 **Experiencia y desarrollo:** Creación de aplicaciones web completas, sitios dinámicos con **WordPress** e integración de servicios en la nube.
-- 🛠️ **Stack principal:** **Python**, **JavaScript**, **C++** y **Appwrite** para el desarrollo de backend.
-- 🌱 **En constante aprendizaje:** Explorando nuevas arquitecturas web, optimización de sistemas y herramientas modernas de desarrollo.
-- 🤝 **Colaboración:** Abierto a participar en proyectos de código abierto y software innovador.
-
-## 🚀 Mi stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,materialui,wordpress,mysql,postgres,cpp,python,java,visualstudio,aws,docker,windows,ts,sass,git,github,gitlab,linux,php,jupyter&perline=8" alt="Tecnologías: HTML, CSS, JavaScript, Material UI, WordPress, MySQL, PostgreSQL, C++, Python, Java, Visual Studio, AWS, Docker, Windows, TypeScript, SCSS, Git, GitHub, GitLab, Linux, PHP y Jupyter Notebook"/><br/>
-  <img src="https://img.shields.io/badge/Antigravity-202124?style=flat-square&logo=google&logoColor=white" alt="Antigravity"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"/>
-  <img src="https://img.shields.io/badge/README-181717?style=flat-square&logo=readme&logoColor=white" alt="README"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Explorando-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Aprendiendo TypeScript"/>
-  <img src="https://img.shields.io/badge/Explorando-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Aprendiendo Node.js"/>
-  <img src="https://img.shields.io/badge/Explorando-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Aprendiendo Tailwind CSS"/>
-</p>
-
-## 📊 Mi actividad en GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=daniel-devfrontend&theme=tokyonight&hide_border=true" alt="Racha de contribuciones de GitHub"/>
-</p>
-
-## 🤝 Conectemos
-
-<p align="center">
-  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/GitHub-Visita_mi_perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visita mi perfil de GitHub"/></a>
-  <a href="https://www.instagram.com/daniel.devfrontend?obrf=MTBmbDI4bTE5dXNkZg=="><img src="https://img.shields.io/badge/Instagram-S%C3%ADgueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: daniel.devfrontend"/></a>
-  <a href="https://www.linkedin.com/in/danielmarindev"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: danielmarindev"/></a>
-  <a href="mailto:danimarin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo: danimarin.dev@gmail.com"/></a>
-</p>
-
-<p align="center">
-  <sub>✨ Gracias por visitar mi perfil ✨</sub>
-</p>
+<p align="center"><a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=flat-square&logo=github" alt="GitHub" /></a> <a href="https://www.instagram.com/daniel.devfrontend?obrf=MTBmbDI4bTE5dXNkZg=="><img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://www.linkedin.com/in/danielmarindev"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:danimarin.dev@gmail.com"><img src="https://img.shields.io/badge/Correo-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Correo electrónico" /></a></p>
