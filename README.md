@@ -25,7 +25,7 @@ Hi! I'm **Daniel Marín**, a Full Stack Developer. I am currently pursuing dual 
 ## 🚀 My stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,materialui,wordpress,mysql,postgres,cpp,python,java,visualstudio,aws,docker,windows,ts,sass,git,github,gitlab&perline=8" alt="Technologies: HTML, CSS, JavaScript, Material UI, WordPress, MySQL, PostgreSQL, C++, Python, Java, Visual Studio, AWS, Docker, Windows, TypeScript, SCSS, Git, GitHub, and GitLab"/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,materialui,wordpress,mysql,postgres,cpp,python,java,visualstudio,aws,docker,windows,ts,sass,git,github,gitlab,linux,php,jupyter&perline=8" alt="Technologies: HTML, CSS, JavaScript, Material UI, WordPress, MySQL, PostgreSQL, C++, Python, Java, Visual Studio, AWS, Docker, Windows, TypeScript, SCSS, Git, GitHub, GitLab, Linux, PHP, and Jupyter Notebook"/><br/>
   <img src="https://img.shields.io/badge/Antigravity-202124?style=flat-square&logo=google&logoColor=white" alt="Antigravity"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"/>
@@ -47,7 +47,10 @@ Hi! I'm **Daniel Marín**, a Full Stack Developer. I am currently pursuing dual 
 ## 🤝 Let's connect
 
 <p align="center">
-  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/Visit_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub"/></a>
+  <a href="https://github.com/daniel-devfrontend"><img src="https://img.shields.io/badge/GitHub-Visit_my_profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile"/></a>
+  <a href="https://www.instagram.com/daniel.devfrontend?obrf=MTBmbDI4bTE5dXNkZg=="><img src="https://img.shields.io/badge/Instagram-Follow_me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: daniel.devfrontend"/></a>
+  <a href="https://www.linkedin.com/in/danielmarindev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: danielmarindev"/></a>
+  <a href="mailto:danimarin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: danimarin.dev@gmail.com"/></a>
 </p>
 
 <p align="center">
