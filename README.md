@@ -28,7 +28,7 @@
 ## 🚀 Mi stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,mysql,postgres,git,github,vscode,postman&perline=6" alt="Tecnologías: HTML, CSS, JavaScript, React, Bootstrap, Python, MySQL, PostgreSQL, Git, GitHub, VS Code y Postman"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,materialui,wordpress,mysql,postgres,cpp,python,java,visualstudio,aws,docker,windows,ts,sass,git,github,gitlab&perline=8" alt="Tecnologías: HTML, CSS, JavaScript, Material UI, WordPress, MySQL, PostgreSQL, C++, Python, Java, Visual Studio, AWS, Docker, Windows, TypeScript, SCSS, Git, GitHub y GitLab"/><br/><img src="https://img.shields.io/badge/Antigravity-202124?style=flat-square&logo=google&logoColor=white" alt="Antigravity"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"/> <img src="https://img.shields.io/badge/README-181717?style=flat-square&logo=readme&logoColor=white" alt="README"/>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ Hi! I'm **Daniel Marín**, a Full Stack Developer. I am currently pursuing dual 
 ## 🚀 My stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,mysql,postgres,git,github,vscode,postman&perline=6" alt="Technologies: HTML, CSS, JavaScript, React, Bootstrap, Python, MySQL, PostgreSQL, Git, GitHub, VS Code, and Postman"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,materialui,wordpress,mysql,postgres,cpp,python,java,visualstudio,aws,docker,windows,ts,sass,git,github,gitlab&perline=8" alt="Technologies: HTML, CSS, JavaScript, Material UI, WordPress, MySQL, PostgreSQL, C++, Python, Java, Visual Studio, AWS, Docker, Windows, TypeScript, SCSS, Git, GitHub, and GitLab"/><br/><img src="https://img.shields.io/badge/Antigravity-202124?style=flat-square&logo=google&logoColor=white" alt="Antigravity"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"/> <img src="https://img.shields.io/badge/README-181717?style=flat-square&logo=readme&logoColor=white" alt="README"/>
 </p>
 
 <p align="center">
